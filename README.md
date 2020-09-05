@@ -1,7 +1,7 @@
 # Six Degrees of Kevin Bacon
 SNU CS Data Structure 2020 - Project3
 
-Problem Statement
+# Problem Statement
 “Six Degrees of Kevin Bacon is a trivia game based on the concept of the small world phenomenon and rests
 on the assumption that any individual involved in the Hollywood, California film industry can be linked through
 his or her film roles to actor Kevin Bacon within six steps.”1 The object of this game is to link a movie actor to
